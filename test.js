@@ -1,1 +1,1 @@
-const name="pagal ho sareeeeeeeeeeer";
+const name="pagal hoi jabo ami";
